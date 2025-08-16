@@ -75,4 +75,5 @@ try:
 
 except KeyboardInterrupt:
     print("\n[-] Scan interrupted by user.")
+
     sys.exit(0)
